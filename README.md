@@ -6,6 +6,6 @@
 ## :thinking: How to run :question:
 + Make sure you have installed Cython
 + Open the root directory in your terminal🖥
-+ run `setup.py` by  `python setup.py build_ext --inplace`(macOS) or `python setup.py build_ext --compiler=msvc`(Windows)
++ run `setup.py` by  `python setup.py build_ext --inplace` or ~~`python setup.py build_ext --compiler=msvc`~~
 + The result is something like ![img.png](img.png)
 + Run `python main.py`
